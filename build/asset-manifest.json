@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gani/static/css/main.bb5b4db1.css",
+    "main.js": "/gani/static/js/main.6646ece2.js",
+    "static/js/592.2576992a.chunk.js": "/gani/static/js/592.2576992a.chunk.js",
+    "index.html": "/gani/index.html",
+    "main.bb5b4db1.css.map": "/gani/static/css/main.bb5b4db1.css.map",
+    "main.6646ece2.js.map": "/gani/static/js/main.6646ece2.js.map",
+    "592.2576992a.chunk.js.map": "/gani/static/js/592.2576992a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb5b4db1.css",
+    "static/js/main.6646ece2.js"
+  ]
+}
