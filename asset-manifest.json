@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/venky-week8/static/css/main.bb5b4db1.css",
+    "main.js": "/venky-week8/static/js/main.842a95d4.js",
+    "static/js/592.2576992a.chunk.js": "/venky-week8/static/js/592.2576992a.chunk.js",
+    "index.html": "/venky-week8/index.html",
+    "main.bb5b4db1.css.map": "/venky-week8/static/css/main.bb5b4db1.css.map",
+    "main.842a95d4.js.map": "/venky-week8/static/js/main.842a95d4.js.map",
+    "592.2576992a.chunk.js.map": "/venky-week8/static/js/592.2576992a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb5b4db1.css",
+    "static/js/main.842a95d4.js"
+  ]
+}
